@@ -56,7 +56,7 @@ export const Dashboard = () => {
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-2">
           <div className="flex-1 min-w-0">
             <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-gradient-cyber bg-clip-text text-transparent mb-2 leading-tight">
-              AI GENERATED ANALYTICS DASHBOARD
+              ANALYTICS DASHBOARD
             </h1>
             <p className="text-muted-foreground font-mono text-xs sm:text-sm tracking-wider uppercase truncate">
               Business Intelligence Dashboard • Real-time Analytics
