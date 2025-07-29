@@ -1,6 +1,4 @@
-Sure! Here's your clean and professional `README.md` — without any mention of *Lovable* — and personalized under your name:
 
----
 
 # 🚀 Welcome to the Project by **Shailesh Kumar Khanchandani**
 
